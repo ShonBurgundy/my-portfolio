@@ -2,3 +2,9 @@
   text-align: center;
   text-decoration: underline;
 }
+
+.highlight {
+  color: firebrick;
+  font-style: italic;
+
+}
