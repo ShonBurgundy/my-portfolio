@@ -1,6 +1,15 @@
+body {
+  background-color: #5D5C61;
+  font-family: sans-serif;
+}
+
+
 .jumbotron {
   text-align: center;
   text-decoration: underline;
+  background-image: url('https://bit.ly/3a8A3au');
+  background-position: center bottom;
+  height: 100%;}
 }
 
 .highlight {
@@ -11,4 +20,12 @@
 
 h2 {
   font-weight: bolder;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.well {
+  background-color: ;
 }
