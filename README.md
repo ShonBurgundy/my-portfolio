@@ -1,10 +1,10 @@
-# My First Webpage
+# My Portfolio Week 1
 
 By _Sean VanLeeuwen_ 03.20.20
 
 ## Description
 
-This is my first independent project I have completed since enrolling in Epicodus. It is a brief description about me, my goals & passions. Along with a few images.
+Project HR. This is my week 1 independent project for Epicodus. It is a brief description about me, my goals & passions. Along with a few images.
 
 ## Setup
 
@@ -20,4 +20,13 @@ None
 
 **seanbeloussow@yahoo.com**
 
+
+## Technologies Used
+
+HTML, CSS, Bootstrap, Git
+
+## Legal
+
+Copyright (c) 2020 Sean VanLeeuwen
+This software is licensed under MIT license.
 
