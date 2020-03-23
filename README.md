@@ -16,6 +16,10 @@ Project HR. This is my week 1 independent project for Epicodus. It is a brief de
 
 None
 
+## GitHub Pages
+
+https://shonburgundy.github.io/my-portfolio/
+
 ## Support and contact details
 
 **seanbeloussow@yahoo.com**
